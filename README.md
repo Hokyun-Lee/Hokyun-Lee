@@ -37,7 +37,7 @@
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=ros" width="65" height="65" alt="ROS" />
-<br>ROS
+<br>ROS 1&2
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cmake" width="65" height="65" alt="CMake" />
