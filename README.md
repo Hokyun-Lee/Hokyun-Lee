@@ -48,7 +48,7 @@
 <br>PyTorch
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="Numpy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="Numpy" />
 <br>Numpy
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <br>Notion
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="65" height="65" alt="Slack" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="60" height="60" alt="Slack" />
 <br>Slack
 </td>
 <td align="center" width="96">
@@ -89,6 +89,10 @@
 ### Intermediate with
 <table align="center">
 <tr>
+<td align="center" width="96">
+<img src="https://i.namu.wiki/i/njAJCwAppS7TVCu13duab4H1GA7MwYmZEiEXqdiFIoGs5sPtMROYKFwArc5S4QMQ3nzGnsTZuDCWA6X0gNLbQqZJXDZWg-82rYZ2XJmVObXr-S0V3Ky961aanQM0Ai8Q4cCHTbZusovjtKn5nqXUoA.webp" width="80" height="80" alt="Fusion 360" />
+<br>Fusion360
+</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=qt" width="65" height="65" alt="Qt" />
 <br>Qt
@@ -116,10 +120,6 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="R" />
 <br>R
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="65" height="65" alt="LabVIEW" />
-<br>LabVIEW
 </td>
 </tr>
 </table>
@@ -152,6 +152,8 @@
 <br>Firebase
 </td>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="65" height="65" alt="LabVIEW" />
+<br>LabVIEW
 </td>
 <td align="center" width="96">
 </td>
