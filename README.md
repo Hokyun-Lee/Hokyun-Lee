@@ -7,6 +7,9 @@
   <a href="https://www.youtube.com/@hkleetony" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+  <a href="https://github.com/hokyun-lee" target="_blank">
+    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHokyun-Lee&label=Hokyun&icon=github&color=%23198754&message=&style=for-the-badge&tz=UTC" height="25" >
+  </a>
 </div>
 
 - 🎓 I'm currently a Ph.D. student at Seoul National University ([SNU](https://en.snu.ac.kr/)), South Korea.
