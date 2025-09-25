@@ -93,7 +93,7 @@
 <table align="center">
 <tr>
 <td align="center" width="96">
-<img src="https://i.namu.wiki/i/njAJCwAppS7TVCu13duab4H1GA7MwYmZEiEXqdiFIoGs5sPtMROYKFwArc5S4QMQ3nzGnsTZuDCWA6X0gNLbQqZJXDZWg-82rYZ2XJmVObXr-S0V3Ky961aanQM0Ai8Q4cCHTbZusovjtKn5nqXUoA.webp" width="80" height="80" alt="Fusion 360" />
+<img src="https://i.namu.wiki/i/saGkYukNXBGWa5QjzAMhirFvD-4D7MiWszK-crIldShjhrwLnV2CZWqRJYhniXFklZL1xIVp4H8KpcPw8Nv2BBD_m-SO4VnIQezugeRCblcDEROzXPURqr2urDnsQjUtGO99UuESmcPJi4arQdPkrg.webp" width="80" height="80" alt="Fusion 360" />
 <br>Fusion360
 </td>
 <td align="center" width="96">
