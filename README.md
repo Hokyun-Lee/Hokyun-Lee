@@ -13,10 +13,10 @@
 </div>
 
 - 🎓 I'm currently a Ph.D. student at Seoul National University ([SNU](https://en.snu.ac.kr/)), South Korea.
-- 🔭 My research focuses on applying Reinforcement Learning to **humanoid robot** ([**TOCABI**](https://github.com/saga0619/dyros_tocabi_v2)) control. 
-- 🌱 I’m currently deepening my knowledge in learning-based control techniques.
+- 🔭 My research focuses on applying Learning-based approach to **humanoid robot** ([**TOCABI**](https://github.com/saga0619/dyros_tocabi_v2)) control. 
 - 🤔 I’m also interested in robot design and system integration.
 
+<!--
 ## 💻 My Skill Set
 
 ### Proficient with
@@ -163,7 +163,7 @@
 </tr>
 </table>
 
-###
+###-->
 
 
 <!--
